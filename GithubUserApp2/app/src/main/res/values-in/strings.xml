@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User App v2</string>
+    <string name="find_username">Cari Nama</string>
+    <string name="username">Nama Pengguna</string>
+    <string name="company">Perusahaan</string>
+    <string name="location">Lokasi</string>
+    <string name="txt_username">Nama Pengguna : </string>
+    <string name="txt_name">Nama : </string>
+    <string name="txt_location">Lokasi : </string>
+    <string name="txt_repository">Repository : </string>
+    <string name="txt_company">Perusahaan : </string>
+    <string name="txt_followers">Pengikut : </string>
+    <string name="txt_following">Mengikuti : </string>
+    <string name="txt_avatar">Avatar</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="progress">Tunggu ...</string>
+    <string name="tab_text_1">Pengikut</string>
+    <string name="tab_text_2">Mengikuti</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Github User App v2</string>
+    <string name="find_username">Find Username</string>
+    <string name="username">Name User</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="txt_username">Username : </string>
+    <string name="txt_name">Name : </string>
+    <string name="txt_location">Location : </string>
+    <string name="txt_repository">Repository : </string>
+    <string name="txt_company">Company : </string>
+    <string name="txt_followers">Followers : </string>
+    <string name="txt_following">Following : </string>
+    <string name="txt_avatar">Avatar</string>
+    <string name="progress">Wait ...</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+</resources>
