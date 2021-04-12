@@ -89,10 +89,10 @@ public class MainActivity extends AppCompatActivity {
         listUser.clear();
 
         String clientId = "dayatsa";
-        String clientSecret = "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";
+        String clientSecret = "YOUR TOKEN";
         String url = "https://api.github.com/search/users?q=" + username + "&client_id=" + clientId + "&client_secret=" + clientSecret;
 
-        client.addHeader("Authorization", "token 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");
+        client.addHeader("Authorization", "token <YOUR TOKEN>");
         client.addHeader("User-Agent", "request");
         client.get(url, new AsyncHttpResponseHandler() {
 
