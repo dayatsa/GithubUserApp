@@ -2,7 +2,7 @@
 Submission for "Belajar Fundamental Aplikasi Android (BFAA)" on [Dicoding Academy](https://www.dicoding.com/).
 
 
-## Development
+
 ### Libraries and Documentation
 * [Espresso](https://github.com/codepath/android_guides/wiki/UI-Testing-with-Espresso)
 * [CardView](https://developer.android.com/reference/androidx/cardview/widget/CardView)
@@ -10,6 +10,8 @@ Submission for "Belajar Fundamental Aplikasi Android (BFAA)" on [Dicoding Academ
 * [Glide](https://bumptech.github.io/glide/)
 * [LoopJ](https://loopj.com/android-async-http/)
 * [MaterialDesign](https://material.io/develop/android/)
+
+
 
 
 ### Submission 1
@@ -29,6 +31,8 @@ Submission for "Belajar Fundamental Aplikasi Android (BFAA)" on [Dicoding Academ
 - [x] Using <strong>ListView/RecyclerView</strong>.
 - [x] Displays avatar and user information at </strong>Detail User</strong> page.
 - [x] Using <strong>Parcelable</strong> as an interface for data objects that will be sent between Activity.
+
+
 
 
 ### Submission 2
@@ -62,6 +66,8 @@ Submission for "Belajar Fundamental Aplikasi Android (BFAA)" on [Dicoding Academ
 - [x] Item list for <strong>RecyclerView</strong> arranged using <strong>ConstraintLayout</strong>.
 - [x] Using <strong>TabLayout</strong>, <strong>BottomNavigationView</strong> or another as navigation between <strong>Follower List</strong> pages and <strong>Following List</strong> pages.
 - [x] There is a <strong>loading indicator</strong> when the app loads data.
+
+
 
 
 ### Author
