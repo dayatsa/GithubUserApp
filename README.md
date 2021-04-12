@@ -14,6 +14,7 @@ Submission for "Belajar Fundamental Aplikasi Android (BFAA)" on [Dicoding Academ
 
 ### Submission 1
 [Source Code](https://github.com/dayatsa/GithubUserApp/tree/main/GithubUserApp)
+
 <img src="https://github.com/dayatsa/GithubUserApp/blob/main/pitcures/submission11.jpg"
      alt="Submission1 11"
      style="float: left; margin-right: 10px;"
@@ -32,6 +33,7 @@ Submission for "Belajar Fundamental Aplikasi Android (BFAA)" on [Dicoding Academ
 
 ### Submission 2
 [Source Code](https://github.com/dayatsa/GithubUserApp/tree/main/GithubUserApp2)
+
 <img src="https://github.com/dayatsa/GithubUserApp/blob/main/pitcures/submission21.jpg"
      alt="Submission2 1"
      style="float: left; margin-right: 10px;"
@@ -60,3 +62,7 @@ Submission for "Belajar Fundamental Aplikasi Android (BFAA)" on [Dicoding Academ
 - [x] Item list for <strong>RecyclerView</strong> arranged using <strong>ConstraintLayout</strong>.
 - [x] Using <strong>TabLayout</strong>, <strong>BottomNavigationView</strong> or another as navigation between <strong>Follower List</strong> pages and <strong>Following List</strong> pages.
 - [x] There is a <strong>loading indicator</strong> when the app loads data.
+
+
+### Author
+<strong>[Hidayat Eko Saputro](https://github.com/dayatsa)</strong>
