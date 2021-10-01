@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GithubUserApps3</string>
+    <string name="username">Username</string>
+    <string name="name">Name</string>
+    <string name="location">Location : </string>
+    <string name="repository">Repository : </string>
+    <string name="company">Company : </string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="avatar">Avatar</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="favorite">Favorite</string>
+    <string name="settings">settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="theme">Theme</string>
+</resources>

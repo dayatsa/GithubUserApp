@@ -70,7 +70,7 @@ public class FollowingFragment extends Fragment {
 
         String url = "https://api.github.com/users/" + username + "/following";
 
-        client.addHeader("Authorization", "token <YOUR TOKEN>");
+        client.addHeader("Authorization", "token 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");
         client.addHeader("User-Agent", "request");
         client.get(url, new AsyncHttpResponseHandler() {
 
